@@ -40,8 +40,13 @@ To-do
 
 ----    
 Logs
+October 14, 2021 4:20 PM
+![Take 9 mins to get solana  CLI works!!](github_image/solana_works.png)
+
 October 14, 2021 4:11 PM
 Project init
 
 ![Beloved Intellij support Rust](github_image/intellijrust.png)
+
+
 
