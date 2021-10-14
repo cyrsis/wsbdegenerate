@@ -8,7 +8,7 @@ class Home extends StatelessWidget {
           .of(context)
           .primaryColorDark,
       body: Container(
-        child: Column(
+        child: new Column(
           mainAxisAlignment: MainAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -45,7 +45,7 @@ class Home extends StatelessWidget {
             Flexible(
               fit: FlexFit.loose,
               child: new Image.network(
-                  "https://www.thedroidsonroids.com/wp-content/uploads/2018/04/flutter_blog-2-750x400.png"),
+                  "https://preview.redd.it/guxb3z4prgt71.jpg?width=640&crop=smart&auto=webp&s=a65f31c3ba6947a597ad0b609d4e1d34910f4a43"),
             ),
             Padding(
               padding: const EdgeInsets.all(2.0),
@@ -97,13 +97,13 @@ class Home extends StatelessWidget {
                             image: new DecorationImage(
                                 fit: BoxFit.fill,
                                 image: new NetworkImage(
-                                    'https://pbs.twimg.com/profile_images/535560454525825024/PLt74yES.png'))),
+                                    'https://styles.redditmedia.com/t5_2th52/styles/communityIcon_hemqpbusqpr71.png?width=256&s=13642d99810029ac3dcd1bc6b01f4536785164a4'))),
                       ),
                       new SizedBox(
                         width: 10.0,
                       ),
                       new Text(
-                        "r/GDG",
+                        "r/wallstreetbets",
                         style: TextStyle(fontWeight: FontWeight.bold),
                       ),
                     ],
@@ -114,7 +114,7 @@ class Home extends StatelessWidget {
             Flexible(
               fit: FlexFit.loose,
               child: new Image.network(
-                  "https://lh3.googleusercontent.com/06LV2EzhXpzrtREoQVZjzZqyuhMoTN7gcIvJRZ40GGHF-BLqkCsvOzrvrS0rOkH_aov7SJJUbK23AOHSqzXYTKeoO3iw29s=s1352"),
+                  "https://preview.redd.it/zi1ucua14gt71.jpg?width=640&crop=smart&auto=webp&s=65844b571576a5d86da5921d4e31bfdaa16819bb"),
             ),
             Padding(
               padding: const EdgeInsets.all(2.0),

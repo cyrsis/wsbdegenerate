@@ -79,22 +79,19 @@ class MyHomeState extends State<MyHome> with SingleTickerProviderStateMixin {
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
         shape: AppShape.FabSquare,
-        child: Column(
-          children: [
-            new Text(
-              'Yolo',
-              style: new TextStyle(
-                fontSize: 24.0,
-                letterSpacing: 2.0,
-              ),
-            ),
-            new Icon(Icons.accessibility_rounded),
-          ],
+        child: new Text(
+          'Yolo',
+          style: new TextStyle(
+            fontSize: 10.0,
+            letterSpacing: 2.0,
+          ),
         ),
       ),
       bottomNavigationBar: new Material(
         shadowColor: Colors.white,
-        color: Theme.of(context).primaryColorDark,
+        color: Theme
+            .of(context)
+            .primaryColorDark,
         child: new TabBar(
           tabs: <Tab>[
             new Tab(
