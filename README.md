@@ -4,11 +4,26 @@
 
 Started with a guy in youtube saying beloved GameStop is going out of businss.
 
-Support by buying then YOLO life saving at different stage while packing with crowdsourced idea and confirmation(DD).
+and the youtube said Solana is unstoppable
+
+I do my part as Support by buying then YOLO life saving at GameStop
+
+different stage while packing with crowdsourced idea and confirmation(DD).
 
 Cover the strong basic BUY AND STRONG HOLD
 
-The diamoon hand strategy
+The diamond hand strategy and diamond ball strategy
+
+During the evolve of our education with different point of views of unknow people in the website with lot of wrinkle brains
+
+We have develop
+
+- a mind for fear, doubt and uncertainity (FUD) for short
+- SEC, Market Maker and Broker steal, cheat and 
+- deal with shit chat bot spread FUD
+- figure out the unstoppable
+- cannt read
+- too long didnt read TL;DR
 
 ##What it does
 
@@ -46,6 +61,15 @@ flutter, hasura, solana
 To-do
 -- need to setup the enviroment
 -- Build a hello world  with Rust and intellij
+
+## Note
+Solana is not EVM compatible but it offers a 
+bidirectional token bridge between Solana and 
+Ethereum so projects can move tokenized assets across blockchains.
+
+Role of the SOL token : The token is used to pay for the transaction fees 
+in the network and to reward participant in the Proof of Stake consensus
+
 
 ----
 Logs
