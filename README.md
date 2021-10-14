@@ -36,9 +36,12 @@ flutter, hasura, solana
 ----
 To-do
 -- need to setup the enviroment
--- Build a hello world
+-- Build a hello world  with Rust and intellij
 
 ----    
 Logs
 October 14, 2021 4:11 PM
 Project init
+
+![Beloved Intellij support Rust](github_image/intellijrust.png)
+
