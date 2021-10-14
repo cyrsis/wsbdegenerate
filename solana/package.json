@@ -20,7 +20,8 @@
     "deploy": "gh-pages -d build",
     "deploy:ar": "arweave deploy-dir build --key-file ",
     "format:fix": "prettier --write \"**/*.+(js|jsx|ts|tsx|json|css|md)\"",
-    "cargo:buildcontract": "cargo build-bpf"
+    "cargo:test": "cd program && cargo test-bpf",
+    "cargo:build": "cd program && cargo build-bpf"
   },
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
