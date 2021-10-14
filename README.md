@@ -49,6 +49,11 @@ To-do
 
 ----
 Logs
+October 14, 2021 4:58 PM
+30 mins, Solana is up and running
+
+![30 mins](github_image/solana_up_and_running.png)
+
 
 October 14, 2021 4:28 PM
 Looks like the Solana CLI need lot of shit command
