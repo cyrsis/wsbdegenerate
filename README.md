@@ -1,3 +1,4 @@
+![lets's go](github_image/wsb_logo.png)
 
 ##Inspiration
 Started with a guy in youtube saying beloved GameStop is going out of businss.
