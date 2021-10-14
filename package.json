@@ -1,0 +1,23 @@
+{
+  "name": "wsbdegenerate",
+  "version": "1.0.0",
+  "description": "![lets's go](github_image/wsb_logo.png)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrsis/wsbdegenerate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrsis/wsbdegenerate/issues"
+  },
+  "homepage": "https://github.com/cyrsis/wsbdegenerate#readme"
+}

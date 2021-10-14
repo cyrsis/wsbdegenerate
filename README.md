@@ -1,6 +1,6 @@
 ![lets's go](github_image/wsb_logo.png)
 
-##Inspiration
+## Inspiration
 
 Started with a guy in youtube saying beloved GameStop is going out of businss.
 
@@ -47,8 +47,12 @@ To-do
 -- need to setup the enviroment
 -- Build a hello world  with Rust and intellij
 
-----    
+----
 Logs
+
+October 14, 2021 4:28 PM
+Looks like the Solana CLI need lot of shit command
+let's yarn it
 
 October 14, 2021 4:20 PM
 
