@@ -2,17 +2,19 @@
 
 ## Inspiration
 
-Started with a guy in youtube saying beloved GameStop is going out of businss.
+Started with a guy in youtube saying beloved GameStop is going out of business.
 
 and the youtube said Solana is unstoppable
 
-I do my part as Support by buying then YOLO life saving at GameStop
+I do my part as Support the community by buying then YOLO life saving at GameStop
 
 different stage while packing with crowdsourced idea and confirmation(DD).
 
 Cover the strong basic BUY AND STRONG HOLD
 
 The diamond hand strategy and diamond ball strategy
+
+Best use of the bananas
 
 During the evolve of our education with different point of views of unknow people in the website with lot of wrinkle brains
 
@@ -33,6 +35,7 @@ One click Yolo(Clean the floor ) for the NFTs,
 
 Direct named NFT
 
+
 ##How we built it
 
 Flutter for both IOS and Android, Multi-chain with Solana, Main net Rest of them need to figure it out.
@@ -46,7 +49,7 @@ Learning Rust, and dont have docker Setting the enviroment is kind of tedious
 For once we finally own something
 
 ##What we learned
-
+Why mobile first for the S
 Rust is pretty good language and solana is fast
 
 ##What's next for Degenerate
@@ -69,6 +72,11 @@ Ethereum so projects can move tokenized assets across blockchains.
 
 Role of the SOL token : The token is used to pay for the transaction fees 
 in the network and to reward participant in the Proof of Stake consensus
+
+
+----
+##Referenece
+https://explorer.solana.com/?cluster=devnet
 
 
 ----
