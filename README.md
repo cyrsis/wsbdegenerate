@@ -49,6 +49,14 @@ To-do
 
 ----
 Logs
+
+October 14, 2021 6:31 PM
+Solo is kind of tough one, 
+so we have a thing call program , needed the
+```
+Cargo.toml 
+```
+to work 
 October 14, 2021 4:58 PM
 30 mins, Solana is up and running
 
