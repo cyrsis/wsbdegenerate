@@ -1,16 +1,34 @@
-# wsbdegenerate
 
-A new Flutter project.
+##Inspiration
+Started with a guy in youtube saying beloved GameStop is going out of businss.
 
-## Getting Started
+Support by buying then YOLO life saving at different stage while packing with crowdsourced idea and confirmation(DD).
 
-This project is a starting point for a Flutter application.
+Cover the strong basic BUY AND STRONG HOLD
 
-A few resources to get you started if this is your first Flutter project:
+The diamoon hand strategy
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##What it does
+Reddit Style -Social Ideas for invest as retails, uniform information for how hedgies, the market maker take advantage of us.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+One click Yolo(Clean the floor ) for the NFTs,
+
+Direct named NFT
+
+##How we built it
+Flutter for both IOS and Android, Multi-chain with Solana, Main net Rest of them need to figure it out.
+
+##Challenges we ran into
+Learning Rust, and dont have docker Setting the enviroment is kind of tedious
+
+##Accomplishments that we're proud of
+For once we finally own something
+
+##What we learned
+Rust is pretty good language and solana is fast
+
+##What's next for Degenerate
+Keep adding features , day by day, have some fun
+
+##Built With
+flutter, hasura, solana
