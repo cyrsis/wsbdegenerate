@@ -32,3 +32,13 @@ Keep adding features , day by day, have some fun
 
 ##Built With
 flutter, hasura, solana
+
+----
+To-do
+-- need to setup the enviroment
+-- Build a hello world
+
+----    
+Logs
+October 14, 2021 4:11 PM
+Project init
