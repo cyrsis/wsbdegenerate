@@ -25,11 +25,11 @@ yarn sol:genWallet
 
 ````
 
-Public key
+Public key location
 /Users/victor/.config/solana/id.json
 
 Note: BIP39 - NONE
-Something like this
+Something like this as public key
 ```
  8R84KzaZK27KUZMhaio4kxgr7r2cLsGkowM3af8kXg4Q
 ```
@@ -42,6 +42,18 @@ problem together crazy fossil toss loud mother divide salmon tonight vapor enrol
 Get banans
 ```
 yarn sol:getbanans
+```
+
+Get Balance
+```
+yarn sol:checkaccount
+
+```
+
+Gen Random Wallet
+Aj94M5te4ijry2y58YT9QrrQfGP2PxBGeHG9ps5bUqZz
+```
+yarn sol:genWalletTemp
 ```
 ## Inspiration
 

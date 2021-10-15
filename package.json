@@ -11,11 +11,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "sol:help": "solana --help",
     "sol:runValidator": "solana-test-validator",
-    "sol:ValidatorConfig": "solana config set --url http://127.0.0.1:8899",
+    "sol:ValidatorConfig_Local": "solana config set --url http://127.0.0.1:8899",
+    "sol:ValidatorConfig_Devnet": "solana config set --url https://api.devnet.solana.com",
     "sol:ValidatorHash": "solana genesis-hash",
     "sol:CheckBalance": "solana balance",
     "sol:genWallet": "solana-keygen new -o /Users/victor/.config/solana/id.json",
-    "sol:getbanans": "solana airdrop 50"
+    "sol:genWalletTemp": "solana-keygen new --no-passphrase --no-outfile",
+    "sol:getbanans": "solana airdrop 50",
+    "sol:checkaccount": "solana balance 8R84KzaZK27KUZMhaio4kxgr7r2cLsGkowM3af8kXg4Q"
   },
   "repository": {
     "type": "git",
