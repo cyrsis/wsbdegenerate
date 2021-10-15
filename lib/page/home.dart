@@ -50,7 +50,6 @@ class Home extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.all(2.0),
               child: Container(
-
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   mainAxisSize: MainAxisSize.min,
