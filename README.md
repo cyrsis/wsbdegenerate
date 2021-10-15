@@ -67,9 +67,11 @@ yarn sol:genWalletTemp
 
 Amazon sell shit load of goods, Reddit have shit load of users, We should have shit load of NTFs
 
-NFTs is awesome, it will be massive adapted with the Solana
+Total insane,
 
 YoLo NFTs-> NTFs of everything .
+
+NFTs is awesome, it will be massive adapted with the Solana
 
 What if we can make NFT directly on my phone?
 
@@ -86,13 +88,18 @@ Power to the Player!!!
 
 ## What it does
 
-Amazon like-E-commerical Store in Reddit Style features only NFTs , Free Delivery and NO MORE Warranty card sign up and
-dont ever try to steal my membership points again
+Amazon like-E-commerical Store in Reddit Style features only and ONlY NFTs , 
+
+Free Shipping
+
+- Different system with different brand, Warranty card is taking forever
+- Don't ever try to steal my membership points again
+- I claim the rightful of the resell and the ownership
 
 - Mobile First
-- Check out for buying lot of NFTs finally,
+- Check out for buying lot of NFTs in SINGLE click 
 - Pay Bills
-- P to P transfer
+- P to P transfer, buy and sell
 - Buy NFTs pork chop first and get the grocery deliver to my house(awesome)
 - Waitress give me a NFTs instead of bill(jacked to tits)
 
