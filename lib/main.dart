@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
         BlocProvider<SolanaBloc>(create: (BuildContext context) => _solanaBloc),
       ],
       child: MaterialApp(
-        title: "Reddit Clone",
+        title: "Degenerate Apps",
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primaryColor: Colors.white,

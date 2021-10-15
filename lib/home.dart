@@ -80,11 +80,12 @@ class MyHomeState extends State<MyHome> with SingleTickerProviderStateMixin {
         onPressed: () {},
         shape: AppShape.FabSquare,
         child: new Text(
-          'Yolo',
+          'Yolo NFT',
           style: new TextStyle(
             fontSize: 10.0,
             letterSpacing: 2.0,
           ),
+          textAlign:TextAlign.center ,
         ),
       ),
       bottomNavigationBar: new Material(

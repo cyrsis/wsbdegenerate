@@ -15,7 +15,7 @@
     "sol:ValidatorConfig_Devnet": "solana config set --url https://api.devnet.solana.com",
     "sol:ValidatorHash": "solana genesis-hash",
     "sol:CheckBalance": "solana balance",
-    "sol:genWallet": "solana-keygen new -o /Users/victor/.config/solana/id.json",
+    "sol:genWallet": "solana-keygen new -o /Users/victor/.config/solana/id.json --force",
     "sol:genWalletTemp": "solana-keygen new --no-passphrase --no-outfile",
     "sol:getbanans": "solana airdrop 50",
     "sol:checkaccount": "solana balance 8R84KzaZK27KUZMhaio4kxgr7r2cLsGkowM3af8kXg4Q",

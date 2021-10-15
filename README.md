@@ -58,66 +58,52 @@ yarn sol:genWalletTemp
 ```
 ## Inspiration
 
-In the GameStop Saga, Aps (Retails) found out they have been cheated from
+In the GameStop Saga, Retail investor such as myself are not 
+financial educated to handle
 
-their broker by allow short selling GameStops from hedgies and Market maker is a scumbag, they figure out the way to fix it by 
+YoLo -> Put every penny into a single Stock
 
-Direct Named Share from a company name ComputerShares.
+I have done it but ran out of ideas to tell my wife.
+and totally broke
 
-It is just saying NFT my shares for Gamestock , the claim of the rightful owner.
+The transaction is T+2 , bank account show single digit 
 
-From now on, NFT in 2021 would have huge impact for the rightful individual
+What if I can have the shares as NFTs and under my name?
 
-Power to the Player
+If I NFTs my share, and I also NFTs my id card, can I get a loan for some quick cash?
+
+What if we can make NFT directly  on my phone?
+
+Coupons, Membership cards, Credit cards, tax payment, bills everything is NFTs. 
+
+Would that ever work?
+
+and how much paper we can save?
+
+let's find out 
+
+Power to the Player!!!
 
 Solana just happen to have the bandwidth to make the NFT sustainable
-
-The story go back to.........
-
-Started with a guy in youtube saying beloved GameStop is going out of business.
-
-
-I do my part as Support the community by buying then YOLO life saving at GameStop
-
-different stage while packing with crowdsourced idea and confirmation(DD).
-
-Cover the strong basic BUY AND STRONG HOLD
-
-I love the community
-
-The diamond hand strategy and diamond ball strategy
-
-Best use of the bananas (life saving)
-
-During the evolve of our education with different point of views of unknown people in the website with lot of wrinkle brains(educated one)
-
-We have understand
-
-- a mind for fear, doubt and uncertainity (FUD) for short
-- SEC, Market Maker and Broker steal, cheat and 
-- deal with shit chat bot spread FUD
-- figure out the unstoppable
-- Cannt read
-- too long didnt read TL;DR
-- NFT can fix the problem
 
 
 ##What it does
 
-Reddit Style -Social Ideas for invest as retails, 
+Reddit Style -E-commerical Store, 
 
-
-- One click Yolo(Clean the floor ) for buying the NFTs,
-  Since you can not buy punch of them at one shot
-- Direct named NFT - Claim of the rightful owner 
+- Mobile First
+- One click  for buying lot of NFTs finally,
+- Pay Bills
+- P to P transfer  
+- Buy NFTs pork chop first and get the grocery deliver to my house(awesome)   
 
 
 ##How we built it
 
 Flutter for both IOS and Android, Multi-chain with Solana, 
 
-- Main net Rest of them need to figure it out.
-- metaplex as service
+- local chain for now ,Rest of them need to figure it out.
+- candle machine as service
 
 
 ##Challenges we ran into
@@ -126,7 +112,7 @@ Flutter for both IOS and Android, Multi-chain with Solana,
 
 ##Accomplishments that we're proud of
 
-For once we have a way to claim the rightful of our ownership
+For once we have a way to claim the rightful of our ownership on everything
 
 ##What we learned
 Why mobile first for this project
@@ -139,7 +125,7 @@ Keep adding features , day by day,and  have some fun
 
 ##Built With
 
-flutter, hasura, solana , firebase for auth, regular database
+flutter, hasura, solana , firebase for auth, firebase
 
 ----
 To-do
