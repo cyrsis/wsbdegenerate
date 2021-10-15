@@ -38,6 +38,11 @@ Seed for this account
 ```
 problem together crazy fossil toss loud mother divide salmon tonight vapor enroll
 ```
+
+Get banans
+```
+yarn sol:getbanans
+```
 ## Inspiration
 
 In the GameStop Saga, Aps (Retails) found out they have been cheated from
