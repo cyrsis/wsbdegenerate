@@ -2,20 +2,19 @@ import 'package:solana/solana.dart';
 
 
 Future<void> main() async {
-  final rpcClient = RPCClient(_rpcClientUrl);
+
   // Create a wallet
-  final _wallet = Wallet(
-    signer: await Ed25519HDKeyPair.random(),
-    rpcClient: rpcClient,
-  );
+  // final _wallet = Wallet(
+  //   signer: await Ed25519HDKeyPair.random(),
+  //   rpcClient: rpcClient,
+  // );
+
 
   // Because this is an example, let's put some lamports into the source
   // wallet. Note that this will of course not work on the main network.
-  await _wallet.requestAirdrop(lamports: 5);
 
 
-  var banans= await _wallet.getLamports();
-  print("how many ${banans}");
+
 
   // Final Destination (so funny :D)
   // final destination = await Ed25519HDKeyPair.random();
@@ -42,4 +41,3 @@ Future<void> main() async {
   // }
 }
 
-const _rpcClientUrl = 'http://127.0.0.1:8899';
