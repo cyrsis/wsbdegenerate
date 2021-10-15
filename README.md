@@ -1,5 +1,43 @@
 ![lets's go](github_image/wsb_logo.png)
 
+## Run this thing
+
+```
+yarn sol:runValidator
+yarn sol:ValidatorConfig
+```
+
+Check
+```
+yarn sol:ValidatorHash
+## should match the runValidator
+Genesis Hash: 7og1v7GopxiW4izxKpeHXWXUGvN47ZFetBp3W8w5LKoi
+
+```
+
+Check balance
+```
+yarn sol:CheckBalance
+```
+No wallet
+````
+yarn sol:genWallet
+
+````
+
+Public key
+/Users/victor/.config/solana/id.json
+
+Note: BIP39 - NONE
+Something like this
+```
+ 8R84KzaZK27KUZMhaio4kxgr7r2cLsGkowM3af8kXg4Q
+```
+
+Seed for this account
+```
+problem together crazy fossil toss loud mother divide salmon tonight vapor enroll
+```
 ## Inspiration
 
 In the GameStop Saga, Aps (Retails) found out they have been cheated from
