@@ -52,6 +52,7 @@ yarn sol:checkaccount
 
 Gen Random Wallet
 Aj94M5te4ijry2y58YT9QrrQfGP2PxBGeHG9ps5bUqZz
+enhance liar sausage guess decide online bracket mix scale immense trigger crush
 ```
 yarn sol:genWalletTemp
 ```
