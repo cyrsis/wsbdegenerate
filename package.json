@@ -19,7 +19,8 @@
     "sol:genWalletTemp": "solana-keygen new --no-passphrase --no-outfile",
     "sol:getbanans": "solana airdrop 50",
     "sol:checkaccount": "solana balance 8R84KzaZK27KUZMhaio4kxgr7r2cLsGkowM3af8kXg4Q",
-    "cargo:lending": "cargo install spl-token-cli && cargo install spl-token-lending-cli"
+    "cargo:lending": "cargo install spl-token-cli && cargo install spl-token-lending-cli",
+    "metaplex_cli": "ts-node metaplex/js/packages/cli/src/candy-machine-cli.ts help"
   },
   "repository": {
     "type": "git",

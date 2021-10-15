@@ -155,7 +155,7 @@ class _MessageState extends State<Message> {
               new Text('SOL: 2.0', style: AppStyle.f20blod()),
               AppWidget.SizeBoxH30,
               new Row(
-                mainAxisAlignment: MainAxisAlignment.end,
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
                   Container(
                     width: 100,
@@ -163,6 +163,7 @@ class _MessageState extends State<Message> {
                     decoration: AppDecoration.BorderRadius10Color(
                       Colors.white,
                     ),
+                    alignment: Alignment.center,
                     child: new Text('NFT',textAlign: TextAlign.center,),
                   ),
                   Text('Pay', style: AppStyle.f30WhiteBold),
