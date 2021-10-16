@@ -4,10 +4,8 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Theme
-          .of(context)
-          .primaryColorDark,
-      body: Container(
+      backgroundColor: Theme.of(context).primaryColorDark,
+      body: SingleChildScrollView(
         child: new Column(
           mainAxisAlignment: MainAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
@@ -42,10 +40,22 @@ class Home extends StatelessWidget {
                 ],
               ),
             ),
-            Flexible(
-              fit: FlexFit.loose,
-              child: new Image.network(
-                  "https://preview.redd.it/guxb3z4prgt71.jpg?width=640&crop=smart&auto=webp&s=a65f31c3ba6947a597ad0b609d4e1d34910f4a43"),
+            Container(
+              width: double.infinity,
+              height: 400.0,
+              child: new ListView(
+                //Under Container
+                scrollDirection: Axis.horizontal,
+                itemExtent: 200.0,
+                children: <Widget>[
+                  _buildGmeCard("https://preview.redd.it/lf2ucykbxot71.jpg?width=640&height=947&crop=smart&auto=webp&s=efd75097a4f7e19d9e4aa647579bedd1dd3e590c"),
+                  _buildGmeCard("https://preview.redd.it/lf2ucykbxot71.jpg?width=640&height=947&crop=smart&auto=webp&s=efd75097a4f7e19d9e4aa647579bedd1dd3e590c"),
+                  _buildGmeCard("https://preview.redd.it/lf2ucykbxot71.jpg?width=640&height=947&crop=smart&auto=webp&s=efd75097a4f7e19d9e4aa647579bedd1dd3e590c"),
+                  _buildGmeCard("https://preview.redd.it/lf2ucykbxot71.jpg?width=640&height=947&crop=smart&auto=webp&s=efd75097a4f7e19d9e4aa647579bedd1dd3e590c"),
+                  _buildGmeCard("https://preview.redd.it/lf2ucykbxot71.jpg?width=640&height=947&crop=smart&auto=webp&s=efd75097a4f7e19d9e4aa647579bedd1dd3e590c"),
+
+                ],
+              ),
             ),
             Padding(
               padding: const EdgeInsets.all(2.0),
@@ -110,15 +120,28 @@ class Home extends StatelessWidget {
                 ],
               ),
             ),
-            Flexible(
-              fit: FlexFit.loose,
-              child: new Image.network(
-                  "https://preview.redd.it/zi1ucua14gt71.jpg?width=640&crop=smart&auto=webp&s=65844b571576a5d86da5921d4e31bfdaa16819bb"),
+            Container(
+              width: double.infinity,
+              height: 400.0,
+              child: new ListView(
+                //Under Container
+                scrollDirection: Axis.horizontal,
+                itemExtent: 200.0,
+                children: <Widget>[
+                  _buildCard(),
+                  _buildCard(),
+                  _buildCard(),
+                  _buildCard(),
+                  _buildCard(),
+                  _buildCard(),
+                  _buildCard(),
+                  _buildCard(),
+                ],
+              ),
             ),
             Padding(
               padding: const EdgeInsets.all(2.0),
               child: Container(
-
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   mainAxisSize: MainAxisSize.min,
@@ -150,14 +173,26 @@ class Home extends StatelessWidget {
                 ),
               ),
             ),
-
           ],
-
         ),
-
-
       ),
+    );
+  }
 
+  _buildCard() {
+    return Container(
+      width: 200.0,
+      height: 300.0,
+      child: new Image.network(
+          "https://preview.redd.it/zi1ucua14gt71.jpg?width=640&crop=smart&auto=webp&s=65844b571576a5d86da5921d4e31bfdaa16819bb"),
+    );
+  }
+
+  _buildGmeCard(image) {
+    return Container(
+      width: 200.0,
+      height: 300.0,
+      child: new Image.network(image),
     );
   }
 }

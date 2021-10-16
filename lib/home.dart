@@ -1,11 +1,15 @@
 import 'package:budgetappwidget/AppWidget/StylesExport.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import '../page/chat.dart';
 
 import '../page/home.dart';
 import '../page/message.dart';
 
 import '../page/search.dart';
+import 'bloc/CameraBloc/CameraBloc.dart';
+import 'bloc/CameraBloc/CameraBloc.dart';
+import 'bloc/CameraBloc/CameraBlocExport.dart';
 
 class MyHome extends StatefulWidget {
   @override
@@ -77,7 +81,9 @@ class MyHomeState extends State<MyHome> with SingleTickerProviderStateMixin {
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       floatingActionButton: FloatingActionButton(
-        onPressed: () {},
+        onPressed: () {
+          BlocProvider.of<CameraBloc>(context).add(SelectImageFromGallery());
+        },
         shape: AppShape.FabSquare,
         child: new Text(
           'Yolo NFT',
