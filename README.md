@@ -65,11 +65,12 @@ yarn sol:genWalletTemp
 
 ## Inspiration
 
-Amazon sell shit load of goods, Reddit have shit load of users, We should have shit load of NTFs
-
-Total insane,
+Amazon sell  load of goods, 
+Reddit have  load of users, 
+We should load of NTFs for everyone and everyday use
 
 YoLo NFTs-> NTFs of everything .
+Total insane ideas,
 
 NFTs is awesome, it will be massive adapted with the Solana
 

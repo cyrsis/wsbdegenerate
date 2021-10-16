@@ -22,17 +22,12 @@ class SolanaBloc extends Bloc<SolanaEvent, SolanaState> {
     SolanaEvent event,
   ) async* {
     if (event is GetBalance) {
-      final target = Wallet(
-        signer: await Ed25519HDKeyPair.random(),
-        rpcClient: RPCClient(_rpcClientUrl),
-      );
 
-      print("Target Address found ? ${target.address}");
 
-      var some =await target.requestAirdrop(lamports: 5000);
-      print("${some}");
+
+
       final rpcClient = RPCClient(_rpcClientUrl);
-      banans = await rpcClient.getBalance(target.address);
+      banans = await rpcClient.getBalance(_localAccount);
     }
 
     if (event is AddToken) {
